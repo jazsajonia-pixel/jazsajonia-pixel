@@ -1,32 +1,34 @@
-# Hi, I'm Jazz Sajonia 👋
+# Jazz Sajonia
 
-I’m a **Full-Stack Web Developer** building modern, practical software through personal and academic projects. I work with React, Next.js, TypeScript, PHP, APIs, and database-backed applications, with a focus on clear interfaces and useful user flows.
+**Full-stack developer building useful web and mobile software.**
 
-I’m also exploring **AI-assisted development and workflow automation** through OpenAI, Gemini, Claude, and Make.com integrations. Here you’ll find projects such as mobile-first developer tooling, marketplace applications, and business systems—built, tested, documented, and shared as I continue learning in public.
+I work across product interfaces, APIs, databases, AI-assisted developer tools, and workflow automation. My repositories range from full-stack applications and Android utilities to experiments in game development. I document projects around what is implemented today, including meaningful constraints and contributions.
 
-> **Projects first. Claims second.**
+[Portfolio](https://portfolio-chrono8.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jazzther-bert-shanne-sajonia) · [Email](mailto:jaz.sajonia@gmail.com)
 
-# 💫 About Me:
-Hi, I'm Jazz Sajonia 👋I’m a Full-Stack Web Developer building modern, practical software through personal and academic projects. I work with React, Next.js, TypeScript, PHP, APIs, and database-backed applications, with a focus on clear interfaces and useful user flows.I’m also exploring AI-assisted development and workflow automation through OpenAI, Gemini, Claude, and Make.com integrations. Here you’ll find projects such as mobile-first developer tooling, marketplace applications, and business systems—built, tested, documented, and shared as I continue learning in public.Projects first. Claims second.
+## Selected work
 
+| Project | Focus |
+| --- | --- |
+| [Chrono](https://github.com/jazsajonia-pixel/mobdevai) | Mobile-first AI-assisted development workspace for GitHub projects |
+| [FlowPilot AI](https://github.com/jazsajonia-pixel/flowpilot) | Visual workflow automation with AI, triggers, and a workflow execution engine |
+| [MarketHub](https://github.com/jazsajonia-pixel/markethub) | Full-stack local marketplace with buyer, seller, and admin workflows |
+| [igit](https://github.com/jazsajonia-pixel/igit) | Local-first Android Git client with sync, conflict resolution, and repository tools |
+| [TaskFlow](https://github.com/jazsajonia-pixel/Project-1-TaskFlow) | Collaborative project and task management with workspace roles and live updates |
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jazzther-bert-shanne-sajonia) 
+## Tools I work with
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jazsajonia-pixel &theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jazsajonia-pixel &theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jazsajonia-pixel &theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **Web:** TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, Node.js
+- **Data & APIs:** PostgreSQL, MySQL, Prisma, Hono, REST APIs
+- **Mobile & creative coding:** Kotlin, Jetpack Compose, React Native, Godot
+- **Workflow & AI:** GitHub Actions, Make.com, Gemini, OpenAI-compatible APIs
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## GitHub activity
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jazsajonia-pixel &limit=5&theme=dracula&combine_all_yearly_contributions=true)
+The cards below are generated from public GitHub activity and repository language data. They update automatically when the upstream services are available.
 
----
-[![](https://komarev.com/ghpvc/?username=jazsajonia-pixel &icon=0&color=0)](https://visitcount.itsvg.in)
+| Contribution overview | Languages across public repositories |
+| --- | --- |
+| ![GitHub profile statistics](https://github-readme-stats.vercel.app/api?username=jazsajonia-pixel&show_icons=true&hide_border=true&theme=default) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jazsajonia-pixel&layout=compact&hide_border=true&theme=default) |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jazsajonia-pixel&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true&custom_title=Contribution%20Activity)
