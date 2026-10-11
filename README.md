@@ -31,4 +31,4 @@ The cards below are generated from public GitHub activity and repository languag
 | --- | --- |
 | ![GitHub profile statistics](https://github-readme-stats.vercel.app/api?username=jazsajonia-pixel&show_icons=true&hide_border=true&theme=default) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jazsajonia-pixel&layout=compact&hide_border=true&theme=default) |
 
-![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jazsajonia-pixel&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true&custom_title=Contribution%20Activity)
+![GitHub contribution streak](https://streak-stats.demolab.com?user=jazsajonia-pixel&theme=default&hide_border=true)
