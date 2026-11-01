@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,55:0F766E,100:22D3EE&text=JAZZ%20SAJONIA&fontColor=F8FAFC&fontSize=50&fontAlignY=38&desc=Software%20builder%20%E2%80%A2%20Product%20engineer%20%E2%80%A2%20Creative%20technologist&descSize=16&descAlignY=61" width="100%" alt="Jazz Sajonia — software builder, product engineer, and creative technologist" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,55:0F766E,100:22D3EE&text=JAZZ%20SAJONIA&fontColor=F8FAFC&fontSize=50&fontAlignY=38&desc=Software%20builder%20%E2%80%A2%20AI%20%26%20automation%20%E2%80%A2%20Mobile%20%26%20web&descSize=16&descAlignY=61" width="100%" alt="Jazz Sajonia — software builder focused on AI, automation, mobile, and web" />
 
-  <a href="https://portfolio-chrono8.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://jazz-portfolio1.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jazzther-bert-shanne-sajonia"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jaz.sajonia@gmail.com"><img src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=jazsajonia-pixel&style=for-the-badge&color=0F766E&label=PROFILE%20VIEWS" alt="Profile views" />
@@ -9,45 +9,60 @@
 
 ## Hello, I’m Jazz
 
-I’m a software builder who likes turning ambitious ideas into useful, understandable products. My work moves between **full-stack web apps, mobile software, AI-assisted tools, automation, analytics, and games**—with a consistent focus on thoughtful UX and real end-to-end flows.
+I build practical software across **AI-assisted tools, Android apps, full-stack web, automation, and interactive projects**. I enjoy the full product loop: shaping an idea, designing the experience, connecting the data, testing the rough edges, and making the result understandable to someone new.
 
-I enjoy the whole product loop: shaping an idea, designing the interface, wiring up the data, testing the rough edges, and shipping something people can actually try.
+My current focus is on **human-controlled AI workflows** and **mobile developer tools**—useful automation with clear boundaries, honest status, and a person in control of consequential actions.
 
-### What I’m exploring now
+## Recent builds
 
-- AI agents, developer tools, and human-in-the-loop workflows
-- Mobile-first product design and native Android experiences
-- Automation, analytics, and reliable data flows
-- Creative coding, game systems, and interactive worlds
-- Clear documentation that explains what a project really does
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jazsajonia-pixel/Chrauto-AI">Chrauto AI</a></h3>
+      <p>A native Android agent for bounded, screen-aware tasks. It validates actions locally and pauses before consequential steps.</p>
+      <p><strong>Latest:</strong> v0.6.0 adds scheduled tasks with recovery and assisted Viber group messaging. Real-phone behavior still needs testing.</p>
+      <sub>Kotlin · Jetpack Compose · Android accessibility</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jazsajonia-pixel/cortex-ai">Cortex</a></h3>
+      <p>An on-device coding agent that runs local Llama and Qwen models in a folder you choose, with skills, memory, file tools, and a 3D knowledge graph.</p>
+      <p><strong>Latest main update:</strong> Android memory monitoring and pressure recovery.</p>
+      <sub>Kotlin · Jetpack Compose · llama.cpp</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jazsajonia-pixel/mobdevai">Chrono</a></h3>
+      <p>A mobile-first AI-assisted GitHub workspace for editing code, reviewing proposed changes, previewing projects, and continuing the Git workflow.</p>
+      <p><a href="https://chrono-tau.vercel.app">Live app</a> · <a href="https://github.com/jazsajonia-pixel/chronoapp2">Mobile app</a></p>
+      <sub>TypeScript · React · AI agents</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jazsajonia-pixel/flowpilot">FlowPilot AI</a></h3>
+      <p>A visual workflow builder for triggers, AI steps, conditions, and server-side execution.</p>
+      <p><a href="https://flowpilot-chrono8.vercel.app">Live app</a></p>
+      <sub>React · Vercel · Neon · Drizzle</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jazsajonia-pixel/markethub">MarketHub</a></h3>
+      <p>A full-stack marketplace with buyer, seller, and admin workflows, messaging, orders, and analytics.</p>
+      <p><a href="https://markethub-pi.vercel.app">Live app</a></p>
+      <sub>React · TypeScript · Hono · Prisma · PostgreSQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jazsajonia-pixel/Speedsight">SpeedSight</a></h3>
+      <p>Browser-based traffic analytics with local video/camera processing, vehicle detection, tracking, and reporting.</p>
+      <p><a href="https://project-2-speed-sight2.vercel.app">Live app</a></p>
+      <sub>React · TypeScript · TensorFlow.js</sub>
+    </td>
+  </tr>
+</table>
 
-## Start here
+<sub>MarketHub checkout is simulated, not a real payment processor. SpeedSight speed readings are estimates for analytics, not certified for legal enforcement. Project links describe the work; check each repository for its current test and release status.</sub>
 
-These are the projects that best represent how I build:
-
-| Project | What it is | Stack / focus |
-| --- | --- | --- |
-| **[Chrono](https://github.com/jazsajonia-pixel/mobdevai)** · [Live](https://chrono-tau.vercel.app) · [Mobile app](https://github.com/jazsajonia-pixel/chronoapp2) | A mobile-first AI-assisted GitHub workspace for editing code, reviewing proposed changes, previewing projects, and continuing the Git workflow. | TypeScript · React · AI agents |
-| **[Chrauto AI](https://github.com/jazsajonia-pixel/Chrauto-AI)** | A native Android assistant for bounded, screen-aware tasks, with validated actions and approval pauses around consequential steps. | Kotlin · Jetpack Compose · Android |
-| **[FlowPilot AI](https://github.com/jazsajonia-pixel/flowpilot)** · [Live](https://flowpilot-chrono8.vercel.app) | A visual workflow builder for triggers, AI steps, conditions, and server-side execution. | AI · automation · full-stack |
-| **[MarketHub](https://github.com/jazsajonia-pixel/markethub)** · [Live](https://markethub-pi.vercel.app) | A full-stack marketplace with buyer, seller, and admin workflows, messaging, orders, and analytics. | React · TypeScript · Hono · Prisma · PostgreSQL |
-| **[SpeedSight](https://github.com/jazsajonia-pixel/Speedsight)** · [Live](https://project-2-speed-sight2.vercel.app) | Browser-based traffic analytics with local video/camera processing, vehicle detection, tracking, and reporting. | React · TypeScript · TensorFlow.js |
-| **[TaskFlow](https://github.com/jazsajonia-pixel/Project-1-TaskFlow)** · [Live](https://project-1-taskflow-chi.vercel.app) | A collaborative team workspace with role-based projects, real-time updates, task boards, and database-backed analytics. | React · Express · PostgreSQL · Socket.IO |
-| **[igit](https://github.com/jazsajonia-pixel/igit)** | A local-first Android Git client for repositories, sync, diffs, branches, and conflict resolution. | Kotlin · Jetpack Compose · Git |
-| **[Petalbound](https://github.com/jazsajonia-pixel/petalbound-godot)** | A phone-friendly 2D adventure prototype with original characters, combat, exploration, and a soft pixel-art world. | Godot 4 · GDScript · game design |
-
-> **Project notes:** MarketHub checkout is simulated, not a real payment processor. SpeedSight’s speed measurements are estimates for analytics—not certified for legal enforcement.
-
-## Newer experiments
-
-A few of the newest repositories are intentionally smaller or still evolving, but they show where I’m experimenting next:
-
-- **[work-project](https://github.com/jazsajonia-pixel/work-project)** — a current Python workspace
-- **[ClawdStudio](https://github.com/jazsajonia-pixel/ClawdStudio)** — a Dart-based studio experiment
-- **[sapphire](https://github.com/jazsajonia-pixel/sapphire)** — a Dart prototype
-- **[Portfolio](https://github.com/jazsajonia-pixel/Portfolio)** — portfolio-site work
-- **[Chron-OS](https://github.com/jazsajonia-pixel/Chron-OS)** — a Kotlin operating-system experiment
-- **[3dgametest](https://github.com/jazsajonia-pixel/3dgametest)** — a Godot 3D experiment
+**More projects:** [Browse my public repositories](https://github.com/jazsajonia-pixel?tab=repositories), including mobile tools, games, and experiments.
 
 ## Tools I reach for
 
@@ -65,13 +80,13 @@ A few of the newest repositories are intentionally smaller or still evolving, bu
 
 ## How I like to build
 
-**Useful over flashy.** I want the core workflow to make sense before adding decoration.
+**Useful over flashy.** Make the core workflow clear before adding decoration.
 
-**Small feedback loops.** I prefer prototypes that can be tried early, then improved with evidence.
+**Small feedback loops.** Try prototypes early, then improve them with evidence.
 
-**Responsible automation.** AI and automation should be bounded, explainable, and give people control at important moments.
+**Responsible automation.** Keep AI bounded and explainable, with people in control at important moments.
 
-**Readable work.** Good software includes the context needed for another person to understand, run, and extend it.
+**Readable work.** Include enough context for someone else to understand, run, and extend a project.
 
 ## GitHub at a glance
 
@@ -82,10 +97,10 @@ A few of the newest repositories are intentionally smaller or still evolving, bu
   <img width="72%" src="https://streak-stats.demolab.com?user=jazsajonia-pixel&hide_border=true&background=0B1220&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&sideNums=E2E8F0&currStreakNum=F8FAFC&dates=94A3B8&stroke=263244" alt="GitHub contribution streak" />
 </div>
 
-<sub>Stats are generated from public GitHub data and may take a little time to refresh.</sub>
+<sub>Stats come from public GitHub data and may take time to refresh.</sub>
 
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by. Explore the repositories, visit my <a href="https://portfolio-chrono8.vercel.app">portfolio</a>, or <a href="mailto:jaz.sajonia@gmail.com">say hello</a>.</sub>
+  <sub>Thanks for stopping by. Explore the <a href="https://github.com/jazsajonia-pixel?tab=repositories">repositories</a>, visit my <a href="https://jazz-portfolio1.vercel.app">portfolio</a>, or <a href="mailto:jaz.sajonia@gmail.com">say hello</a>.</sub>
 </div>
